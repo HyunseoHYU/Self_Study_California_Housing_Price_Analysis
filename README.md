@@ -1,6 +1,6 @@
 # Self_Study_California_Housing_Price_Analysis
 
-'''
+```
 Self_Study_California_Housing_Price_Analysis/
 │  README.md
 │
@@ -14,4 +14,4 @@ Self_Study_California_Housing_Price_Analysis/
     │
     ├─src
     └─test
-'''
+```
