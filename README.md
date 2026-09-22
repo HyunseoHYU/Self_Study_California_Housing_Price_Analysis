@@ -2,16 +2,9 @@
 
 ```
 Self_Study_California_Housing_Price_Analysis/
-│  README.md
-│
-├─data
-│      .gitkeep
-│
-├─docs
-└─notebooks
-    │  .gitkeep
-    │  California_Housing_Data_Analysis.ipynb
-    │
-    ├─src
-    └─test
+├─data/          # 원본/가공 데이터
+├─docs/          # 문서
+└─notebooks/     # 분석 노트북
+    ├─src/       # 재사용 코드
+    └─test/      # 테스트 코드
 ```
