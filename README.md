@@ -1,10 +1,20 @@
 # Self_Study_California_Housing_Price_Analysis
 
 ```
+Studying Points:
+
+1. Data preprocess
+
+2. Pipeline Construction
+- Construct pipeline using sklearn environment
+
+3. Test Various Models
+
+
 Self_Study_California_Housing_Price_Analysis/
-├─data/          # 원본/가공 데이터
-├─docs/          # 문서
-└─notebooks/     # 분석 노트북
-    ├─src/       # 재사용 코드
-    └─test/      # 테스트 코드
+├─data/          # raw data
+├─docs/        
+└─notebooks/     
+    ├─src/       # final source code
+    └─test/      # commit to update records
 ```
