@@ -10,7 +10,6 @@ Studying Points:
 
 3. Test Various Models
 
-
 Self_Study_California_Housing_Price_Analysis/
 ├─data/          # raw data
 ├─docs/        
